@@ -6,7 +6,7 @@ section: 'Gérer mes services et leur renouvellement'
 order: 01
 ---
 
-**Dernière mise à jour le 03/07/2020**
+**Dernière mise à jour le 23/03/2022**
 
 ## Objectif
 
@@ -67,11 +67,11 @@ Vos critères de filtrage seront alors affichés au dessus du tableau. Voici un 
 
 Par défaut, à la souscription, vos services sont paramétrés en **renouvellement automatique**. Ce mode vous permet de vous assurer que vos services soient systématiquement reconduits à échéance. De plus, si vous avez enregistré un moyen de paiement sur votre compte client, vos factures seront automatiquement prélevées sur celui-ci.
 
-Si vous n'avez enregistré aucun moyen de paiement, une facture vous sera adressée par e-mail. Il vous suffira alors de la régler en ligne.
+Si vous n'avez enregistré aucun [moyen de paiement](https://docs.ovh.com/fr/billing/manage-payment-methods/), une facture vous sera adressée par e-mail. Il vous suffira alors de la régler en ligne.
 
 Pour les services ayant une fréquence de renouvellement automatique supérieure à 1 mois (3 mois, 6 mois, 12 mois), un rappel vous est également envoyé par e-mail le mois précédent, récapitulant les services allant être renouvelés prochainement.
 
-Si vous ne souhaitez pas prolonger l'un de ces services, il vous suffit alors de le résilier dans votre espace client.
+Si vous ne souhaitez pas prolonger l'un de ces services, il vous suffit alors [de le résilier dans votre espace client](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
 
 #### **Le renouvellement manuel**
 
@@ -118,7 +118,12 @@ Cette action est proposée pour les services paramétrés en renouvellement auto
 
 #### **Résilier à expiration**
 
-Cette action est proposée pour les services paramétrés en renouvellement automatique. En choisissant cette action, le renouvellement et le prélèvement automatiques sont désactivés pour le service que vous avez sélectionné.
+Cette action est proposée pour les services paramétrés en renouvellement automatique. En choisissant cette action, le renouvellement et le prélèvement automatiques sont désactivés pour le service que vous avez sélectionné. 
+
+> [!warning]
+>
+> Pour plus d'informations sur la résiliation des services OVHcloud, suivez les [instructions de ce guide](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
+>
 
 #### **Régler ma facture**
 
