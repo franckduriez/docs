@@ -61,9 +61,7 @@ Vos critères de filtrage seront alors affichés au dessus du tableau. Voici un 
 
 ![manageautomaticrenewal](images/manageautorenew4b.png){.thumbnail}
 
-### Le renouvellement chez OVHcloud
-
-#### Le renouvellement automatique
+### Le renouvellement automatique
 
 Par défaut, à la souscription, vos services sont paramétrés en **renouvellement automatique**. Ce mode vous permet de vous assurer que vos services soient systématiquement reconduits à échéance. De plus, si vous avez enregistré un moyen de paiement sur votre compte client, vos factures seront automatiquement prélevées sur celui-ci.
 
@@ -73,7 +71,7 @@ Pour les services ayant une fréquence de renouvellement automatique supérieure
 
 Si vous ne souhaitez pas prolonger l'un de ces services, il vous suffit alors [de le résilier dans votre espace client](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
 
-#### Le renouvellement manuel
+### Le renouvellement manuel
 
 Vous avez également la possibilité, pour certains produits OVHcloud (domaines, hébergements, VPS, serveurs dédiés), de les passer en **renouvellement manuel**. Ce mode de renouvellement est utile si vous n'êtes pas certain de vouloir conserver le service à échéance ou si vous ne souhaitez pas que vos factures soient prélevées automatiquement sur votre moyen de paiement. 
 
