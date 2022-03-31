@@ -1,148 +1,152 @@
 ---
-title: 'Verlängerung Ihrer OVHcloud Dienste verwalten'
+title: Verlängerung Ihrer OVHcloud Dienste verwalten
 slug: anleitung_zur_nutzung_der_automatischen_verlangerung_bei_ovh
-excerpt: 'Erfahren Sie hier, wie Sie im OVHcloud Kundencenter die automatische Verlängerung Ihrer Dienste verwalten'
-section: 'Verlängerung der Dienste verwalten'
+excerpt: Erfahren Sie hier, wie Sie im OVHcloud Kundencenter die automatische Verlängerung Ihrer Dienste verwalten
+section: Verlängerung der Dienste verwalten
 order: 1
 legacy_guide_number: g1271
 ---
 
-**Letzte Aktualisierung am 06.05.2020**
+> [!primary]
+> Diese Übersetzung wurde durch unseren Partner SYSTRAN automatisch erstellt. In manchen Fällen können ungenaue Formulierungen verwendet worden sein, z.B. bei der Beschriftung von Schaltflächen oder technischen Details. Bitte ziehen Sie beim geringsten Zweifel die englische oder französische Fassung der Anleitung zu Rate. Möchten Sie mithelfen, diese Übersetzung zu verbessern? Dann nutzen Sie dazu bitte den Button “Mitmachen“ auf dieser Seite.
+>
 
-## Objective
+**Letzte Aktualisierung am 23.03.2022**
 
-You can manage renewals and cancellations for your services via the OVHcloud Control Panel.
+## Ziel
 
-**Find out how to manage automatic renewal for your services via the OVHcloud Control Panel.**
+Sie können die Verlängerung und die Kündigung Ihrer Dienste in Ihrem Kunden Center verwalten
+
+**Diese Anleitung erklärt, wie Sie im OVH Kunden Center die automatische Verlängerung Ihrer Dienste verwalten.**
 
 > [!primary]
 >
-> Depending on your place of residence, local legislation, and the solutions concerned, the details in this guide may vary or not apply to your situation. For further information, please refer to your OVHcloud contracts via the OVHcloud [Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr)\: click on your name in the top right-hand corner of your screen, then `Service`{.action} Management, then the `Contracts`{.action} tab.
+> Je nach Ihrem Wohnsitz, der örtlichen Gesetzgebung und auch den betreffenden Lösungen können manche Details dieses Leitfadens variieren oder in ihrem Fall nicht passend sein. Für weitere Informationen rufen Sie Ihre OVHcloud Verträge über Ihr [OVHcloud Kundencenter](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de) auf : Klicken Sie auf Ihren Namen oben rechts neben Ihrem Bildschirm, auf `Verwaltung der Dienstleistungen`{.action} und dann auf den Tab `Verträge`{.action}.
 >
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dfpPCa0mUyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Requirements
+## Voraussetzungen
 
-- access to the [OVHcloud Control](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) Panel
-- active OVHcloud services
-- access as a billing[ ](https://docs.ovh.com/fr/customer/gestion-des-contacts/#definition)contact for your OVHcloud services
+- Sie haben Zugriff auf Ihr [OVHcloud Kundencenter](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de).
+- Sie haben aktive OVHcloud Dienste.
+- Sie sind [Rechnungskontakt](https://docs.ovh.com/de/customer/verwaltung-der-kontakte/#definition) für Ihre OVHcloud Dienste.
 
-## Instructions
+## In der praktischen Anwendung
 
-When you place orders, your services are set to be automatically renewed on their expiry date. Payments are taken via the default payment method saved in the OVHcloud Control Panel. You can cancel these services at any time via the OVHcloud Control Panel. They will not be renewed once their validity period has ended.
+Beim Kauf sind Ihre Dienstleistungen so eingestellt, dass sie bei Fälligkeit automatisch verlängert werden können, indem Sie von der in Ihrem Kundencenter hinterlegten Standardzahlungsart abgebucht werden. Sie können diese Dienstleistungen jederzeit über Ihr Kundencenter kündigen. Nach Ablauf ihrer Gültigkeitsdauer werden sie nicht verlängert.
 
-You can also set certain products (domains, web hosting plans, VPS, dedicated servers) to *manual* renewal, if you do not wish to renew and pay automatically.
+Es ist aber auch möglich, einige Produkte (Domains, Hosting, VPS, Dedicated Server) für die *manuelle* Verlängerung einzurichten, wenn Sie keine Verlängerungen oder automatischen Abhebungen möchten.
 
-We recommend reading the following guides, and focusing on the operations you wish to carry out:
+Wir empfehlen Ihnen, folgende Anleitungen zu lesen und sich auf die Operationen zu konzentrieren, die Sie durchführen möchten:
 
-- [Display the renewal statuses for your services](https://docs.ovh.com/fr/billing/renouvellement-automatique-ovh/#afficher-les-statuts-de-renouvellement-de-vos-services)\: this guide will help you check if your services are renewed automatically. You can also retrieve their renewal or expiry dates.
+- [Verlängerungsstatus Ihrer Dienste anzeigen](https://docs.ovh.com/de/billing/anleitung_zur_nutzung_der_automatischen_verlangerung_bei_ovh/#verlangerungsstatus-ihrer-dienste-anzeigen): In dieser Anleitung erfahren Sie, ob Ihre Dienste automatisch verlängert werden. Außerdem können Sie das Verlängerungs- oder Ablaufdatum dieser Dienste abrufen.
 
-- [Manage renewal for your services](https://docs.ovh.com/fr/billing/renouvellement-automatique-ovh/#le-renouvellement-chez-ovhcloud)\: this guide will help you enable or disable automatic renewal, change a service’s payment frequency, and pay for renewals before their expiry date.
+- [Verlängerung Ihrer Dienstleistungen verwalten](https://docs.ovh.com/de/billing/anleitung_zur_nutzung_der_automatischen_verlangerung_bei_ovh/#die-verlangerung-bei-ovhcloud) : In dieser Anleitung erfahren Sie, wie Sie die automatische Verlängerung aktivieren oder deaktivieren, die Zahlungsfrequenz eines Dienstes ändern und die Verlängerungen vor Ablauf bezahlen.
 
-- [Manage your payment methods.](https://docs.ovh.com/fr/billing/manage-payment-methods) \: in this guide, you can check that you have a saved payment method for future renewals. You can also add and delete payment methods, if required.
+- [Zahlungsarten verwalten](https://docs.ovh.com/de/billing/zahlungsarten-verwalten/) : In dieser Anleitung können Sie überprüfen, ob Sie über ein eingetragenes Zahlungsmittel für die zukünftigen Verlängerungen verfügen. Sie können bei Bedarf auch Zahlungsarten hinzufügen oder entfernen.
 
-### Access your service’s settings.
+### Zur Einstellung Ihrer Dienstleistungen gelangen Sie wie folgt:
 
-Log in to the [OVHcloud Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr). Click on the name associated with your NIC handle (Customer ID) in the menu bar in the top right-hand corner, then choose `Service`{.action} Management.
+Melden Sie sich in Ihrem [OVHcloud Kundencenter](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.de/&ovhSubsidiary=de) an. Klicken Sie in der rechten oberen Ecke auf den Namen Ihrer Kundenkennung und wählen Sie dann `Verwaltung der Dienstleistungen aus`{.action}.
 
 ![manageautomaticrenewal](images/hubservices.png){.thumbnail}
 
-### Display the renewal statuses for your services.
+### Verlängerungsstatus Ihrer Dienste anzeigen
 
-The `My services` page contains a table for managing your OVHcloud services. You can find their names, the type of service, the availability of the service (if it is suspended, for example), its status (renewal type, action to be performed, etc.) and the date by which the action to be performed will be effective.
+Die Seite `Meine Dienste` enthält eine Tabelle zur Verwaltung Ihrer OVHcloud Dienste. Dort finden Sie Ihre Namen, die Art der Dienstleistung, die Verfügbarkeit des Dienstes (wenn dieser beispielsweise ausgesetzt ist), seinen Status (Art der Verlängerung, durchzuführende Aktion usw.) und das Datum, an dem die durchzuführende Aktion wirksam wird.
 
 ![manageautomaticrenewal](images/manageautorenew2b.png){.thumbnail}
 
-You can sort the columns by ascending or descending order, use the search field, or apply a filter to display only some of your services based on your chosen criteria.
+Sie können die Spalten in aufsteigender oder absteigender Reihenfolge sortieren, das Suchfeld verwenden oder auch einen Filter verwenden, um nur einige Ihrer Dienste nach den Kriterien Ihrer Wahl anzuzeigen.
 
 ![manageautomaticrenewal](images/manageautorenew3.png){.thumbnail}
 
-Your filter criteria are then displayed above the table. Here is an example of a filter that displays domain names with bills awaiting payment.
+Ihre Filterkriterien sind dann über der Tabelle angezeigt. Hier finden Sie ein Beispiel eines Filters, der die Anzeige der Domänennamen ermöglicht, für die eine zu bezahlende Rechnung aussteht.
 
 ![manageautomaticrenewal](images/manageautorenew4b.png){.thumbnail}
 
-### Automatic renewal
+### Automatische Verlängerung
 
-When you subscribe to a service, it is set to **automatic renewal** by default. This setting means you can ensure your services are systematically renewed on their expiry date. Also, if you have registered a payment method in the OVHcloud Control Panel, it will be used to pay for your bills automatically.
+Standardmäßig sind bei Anmeldung Ihre Dienstleistungen mit en **automatischer Erneuerung** eingestellt. Dieser Modus ermöglicht Ihnen sicherzugehen, dass Ihre Dienstleistungen bei Ablauf automatisch verlängert werden. Darüber hinaus werden sofern Sie in Ihrem Kundenkonto eine Zahlungsart eingetragen haben Ihre Rechnungen automatisch mit dieser eingezogen.
 
-If you have not registered a [payment](https://docs.ovh.com/fr/billing/manage-payment-methods/) method, an invoice will be sent to you by email. You can then pay it online.
+Wenn Sie keine [Zahlungsart](https://docs.ovh.com/de/billing/zahlungsarten-verwalten/) eingetragen haben, erhalten Sie eine Rechnung per E-Mail. Sie brauchen die Rechnung dann lediglich online zu begleichen. 
 
-For services with an automatic renewal frequency higher than 1 month (3 months, 6 months, 12 months), you will also be sent an email reminder the month before, listing the services that will need to be renewed soon.
+Für Dienstleistungen, die eine automatische Erneuerungsfrequenz haben welche 1 Monat übersteigt (3 Monate, 6 Monate, 12 Monate), wird Ihnen im vorherigen Monat eine Erinnerung per E-Mail zugesandt welche die bald zu erneuernden Dienstleistungen zusammenfasst. 
 
-If you do not wish to renew one of these services, simply cancel it [via the OVHcloud Control Panel](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
+Wenn Sie eine dieser Dienstleistungen nicht verlängern möchten, genügt es, [sie in Ihrem Kundencenter zu kündigen](https://docs.ovh.com/de/billing/how-to-cancel-your-services/).
 
-### Manual renewal.
+### Die manuelle Erneuerung
 
-For some OVHcloud products (domains, hosting plans, VPS, dedicated servers), you can also switch to manual **renewal**. This renewal method is useful if you are not sure whether you want to keep the service on its expiry date, or if you do not want your bills to be deducted automatically from your payment method. 
+Darüber hinaus können Sie für einige OVHcloud Produkte (Domains, Hosting, VPS, Dedicated Server) auf die **manuelle Verlängerung** umstellen. Dieser Verlängerungsmodus ist nützlich, wenn Sie nicht sicher sind, ob Sie die Dienstleistung zum Ablaufdatum behalten möchten oder wenn Sie nicht möchten, dass Ihre Rechnungen automatisch von Ihrem Zahlungsmittel eingezogen werden. 
 
-If you select this mode, you will receive several reminder emails before the expiry date, each containing a link for renewing your services online before the expiry date. You can also pay via the OVHcloud Control Panel.
+Wenn Sie diesen Modus wählen erhalten Sie vor Ablauf mehrere Mahnungen per E-Mail, jede erhält einen Link welcher es ermöglicht die Dienstleistungen vor dem Ablauf zu erneuern. Sie können auch die Zahlung ganz einfach von Ihrem Kunden Center aus durchführen.
 
 > [!warning]
 >
-> If you do not pay for a service in manual renewal, it is suspended on its expiry date, then deleted after a few days.
+> Wenn Sie keine Zahlung für eine Dienstleistung mit manueller Erneuerung durchführen wird diese am Ablaufdatum automatisch aufgehoben und nach ein paar Tagen gelöscht.
 >
-> However, if you do not want to keep this service, you will not need to request cancellation.
+> Hierbei ist es wenn Sie die Beibehaltung dieser Dienstleistung nicht wünschen nicht notwendig deren Kündigung zu beantragen.
 >
 
-### Manage renewal for your services.
+### Verlängerung verwalten
 
-To the right of each service, click on the `...`{.action} button in the `Actions` column to set renewal for your services.
+Klicken Sie rechts neben jedem Dienst auf den Button `...`{.action} in der Spalte `Aktionen`, um die Verlängerung Ihrer Dienstleistungen einzustellen.
 
 ![manageautomaticrenewal](images/manageautorenew5b.png){.thumbnail}
 
 > [!primary]
 >
-> Depending on the service, some actions may not be available depending on whether or not it is eligible for manual renewal.
+> Je nach Dienstleistung sind manche Aktionen nicht verfügbar, wenn sie für die manuelle Verlängerung infrage kommen.
 >
 
-#### Configure the renewal.
+#### Die Verlängerung einstellen
 
 ![manageautomaticrenewal](images/manageautorenew6b.png){.thumbnail}
 
-Depending on the service you have chosen, you can set it to manual renewal, or choose an automatic renewal frequency. If your service is eligible, you can choose the renewal type and frequency.
+Je nach gewählter Dienstleistung können Sie die Konfiguration für die manuelle Verlängerung oder die Frequenz für die automatische Verlängerung festlegen. Im vorliegenden Fall können Sie die Verlängerungsart wählen und auch dessen Frequenz.
 
 ![manageautomaticrenewal](images/manageautorenew7.png){.thumbnail}
 
-Depending on your choice, you will be given information on future payment dates, the payment method that will be used, and the service’s expiry date.
+Entsprechend der getroffenen Wahl werden die künftigen Daten der Einzugsermächtigung, die Zahlungsart, die angewendet wird sowie auch das Ablaufdatum präzisiert werden.
 
-#### Renew the service.
+#### Verlängerung der Dienstleistung
 
-This action is only applicable to services set to manual renewal, and it will redirect you to an online payment interface. You can renew these services at any time before their expiry, and choose their renewal duration. 
+Diese Aktion wird nur für die Dienstleistungen vorgeschlagen, die für die manuelle Verlängerung eingestellt sind; hier werden Sie dann an eine Benutzeroberfläche für Onlinezahlung weiter geleitet. Sie können diese Dienstleistungen jederzeit vor dem Ablauf erneuern und auch die Dauer ihrer Verlängerung wählen.
 
-#### Anticipate payment.
+#### Die Zahlung antizipieren
 
-This action is applicable to services set to automatic renewal, and it will redirect you to an online payment interface. You can renew these services at any time before their expiry, and choose their renewal duration.  In this case, the duration of validity you subscribe to will be added to the current validity duration. You will not lose any remaining validity time.
+Diese Aktion wird nur für die Dienstleistungen vorgeschlagen für die automatische Verlängerung eingestellt sind; hier werden Sie dann an eine Benutzeroberfläche für Onlinezahlung weitergeleitet. Sie können diese Dienstleistungen jederzeit vor dem Ablauf erneuern und auch die Dauer ihrer Verlängerung wählen. In diesem Fall wird die eingetragene Gültigkeitsdauer der laufenden Gültigkeitsdauer hinzugefügt. Sie verlieren die verbleibende Gültigkeitsdauer nicht.
 
-#### Cancel on expiry.
+#### Bei Ablauf kündigen
 
-This action is available for services set to automatic renewal. By choosing this action, automatic payments and renewals are disabled for the service you have selected. 
+Diese Aktion wird für Dienstleistungen vorgeschlagen welche für automatische Verlängerung eingestellt sind. In dem Sie diese Aktion wählen, werden die automatische Verlängerung und die Zahlung per Lastschrift für die ausgewählte Dienstleistung deaktiviert.
 
 > [!warning]
 >
-> For more information on cancelling OVHcloud services, follow the [instructions in this guide](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
+> Weitere Informationen zur Kündigung der OVHcloud-Dienste finden Sie in dieser [Anleitung](https://docs.ovh.com/de/billing/how-to-cancel-your-services/).
 >
 
-#### Pay your bill.
+#### Meine Rechnung bezahlen
 
-If you have services set to automatic renewal, but have not registered a payment method to pay for your bills, you will see an **Invoice to pay** comment when an invoice is awaiting payment. Then click `Pay my bill`{.action}, which will redirect you to an online payment interface.
+Wenn Sie Dienstleistungen mit automatischer Verlängerung nutzen, aber keine Zahlungsart hinterlegt haben, mit der Sie Ihre Rechnungen begleichen können, erscheint ein Vermerk **Zu bezahlende** Rechnung, wenn eine Rechnung noch nicht beglichen ist. Hierfür wählen Sie lediglich die Aktion `Meine Rechnung bezahlen`{.action} um zu einer Plattform für Onlinezahlung weiterleitet zu werden.
 
-#### Group actions.
+#### Gruppierte Aktionen
 
-You can perform group actions by selecting several services in the table, then clicking `Actions`{.action}.
+Sie können gruppierte Aktionen durchführen in dem Sie mehrere Dienstleistungen in der Tabelle auswählen und dann auf den Schalter `Aktionen`{.action} klicken.
 
 ![manageautomaticrenewal](images/manageautorenew9.png){.thumbnail}
 
-The table below details the group actions you can perform.
+Die unten stehende Tabelle detailliert die möglichen gruppierten Aktionen.
 
-|Possible actions|Description|
+|Mögliche Aktion|Beschreibung|
 |---|---|
-|Renew|Renew several services at once. You will be redirected to a page where you can choose the renewal duration you want, and pay online.|
-|Disable automatic payment|Disable automatic payment for several services at once. If one or more of your services cannot be set to automatic renewal, this will be flagged when you confirm.|
-|Enable automatic payment|Enable automatic payment for several services at once. Only eligible services will be updated.|
-|Export as CSV|Export all of your services and their expiry dates in a csv file.|
-|Align renewal dates|Aligns the expiry dates for your services on a single calendar day. Only eligible services can be updated.|
+|Verlängern|Mehrere Dienstleistungen gleichzeitig verlängern. Sie werden auf eine Seite weitergeleitet, auf der Sie die gewünschte Verlängerungsdauer auswählen können. Sie können dann eine Onlinezahlung durchführen.|
+|Automatische Zahlung deaktivieren|Die automatische Zahlung für mehrere Dienstleistungen gleichzeitig deaktivieren. Wenn eine oder mehrere Dienstleitungen mit der manuellen Erneuerung nicht kompatibel sind wird dies während der Bestätigung angezeigt.|
+|Automatische Zahlung aktivieren|Die automatische Zahlung für mehrere Dienstleistungen gleichzeitig reaktivieren. Nur die wählbaren Dienstleistungen werden aktualisiert.|
+|Als CSV Datei exportieren|Exportieren Sie alle Ihre Dienstleistungen und deren Ablaufdaten in eine csv Datei.|
+|Die Ablaufdaten aneinander angleichen.|Erlaubt es das Ablaufdatum Ihrer Dienstleistungen an einen Kalendertag anzugleichen. Nur die wählbaren Dienstleistungen werden aktualisiert.|
 
-## Go further
+## Weiterführende Informationen
 
-Join our community of users on <https://community.ovh.com/>.
+Für den Austausch mit unserer User Community gehen Sie auf <https://community.ovh.com/en/>.
