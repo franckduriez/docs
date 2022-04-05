@@ -144,4 +144,8 @@ El siguiente cuadro explica en detalle cuáles son las acciones que pueden agrup
 
 ## Más información
 
-Interactúe con nuestra comunidad de usuarios en <https://community.ovh.com/>.
+[Información sobre el tipo de facturación cloud](https://docs.ovh.com/es/public-cloud/informacion-sobre-el-tipo-de-facturacion-cloud/)
+
+[Gestionar la facturación de sus cuentas Exchange](https://docs.ovh.com/es/microsoft-collaborative-solutions/gestion-de-la-facturacion-exchange/)
+
+Interactúe con nuestra comunidad de usuarios en <https://community.ovh.com/en/>.

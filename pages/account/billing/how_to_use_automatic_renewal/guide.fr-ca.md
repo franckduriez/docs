@@ -132,4 +132,8 @@ Le tableau ci-dessous détaille les actions groupées possibles.
 
 ## Aller plus loin
 
+[Informations concernant le mode de facturation Public Cloud](https://docs.ovh.com/ca/fr/public-cloud/information-concernant-le-mode-de-facturation-cloud/)
+
+[Gérer la facturation de vos comptes Exchange](https://docs.ovh.com/ca/fr/public-cloud/information-concernant-le-mode-de-facturation-cloud/)
+
 Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com/>.

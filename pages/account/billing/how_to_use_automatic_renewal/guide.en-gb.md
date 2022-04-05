@@ -36,13 +36,13 @@ We recommend reading the following guides and focusing on the operations you wis
 
 - [Display the renewal statuses for your services](https://docs.ovh.com/gb/en/billing/how-to-use-automatic-renewal-at-ovh/#display-the-renewal-statuses-for-your-services): This guide will help you check if your services are renewed automatically. You can also retrieve their renewal or expiry dates.
 
-- [Manage renewal for your services](https://docs.ovh.com/gb/en/billing/how-to-use-automatic-renewal-at-ovh/#renewal-at-ovhcloud): This guide will help you enable or disable automatic renewal, change a service’s payment frequency, and pay for renewals before their expiry date.
+- [Manage renewal for your services](https://docs.ovh.com/gb/en/billing/how-to-use-automatic-renewal-at-ovh/#renewal-at-ovhcloud): This guide will help you enable or disable automatic renewal, change a service’s payment frequency and pay for renewals before their expiry date.
 
 - [Manage your payment methods](https://docs.ovh.com/gb/en/billing/manage-payment-methods/): Using this guide, you can check that you have a saved payment method for future renewals. You can also add and delete payment methods, if required.
 
 ### Access your service’s settings
 
-Log in to the [OVHcloud Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.co.uk/&ovhSubsidiary=GB). Click on the name associated with your NIC handle (Customer ID) in the menu bar at the top right-hand corner then choose `Service Management`{.action} .
+Log in to the [OVHcloud Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.co.uk/&ovhSubsidiary=GB). Click on the name associated with your NIC handle (Customer ID) in the menu bar at the top right-hand corner then choose `Service Management`{.action}.
 
 ![manageautomaticrenewal](images/hubservices.png){.thumbnail}
 
@@ -142,5 +142,9 @@ The table below details the group actions you can perform.
 |Align renewal dates|Aligns the expiry dates for your services on a single calendar day. Only eligible services can be updated.|
 
 ## Go further
+
+[Information regarding Public Cloud billing options](https://docs.ovh.com/gb/en/public-cloud/information-on-cloud-billing-options/)
+
+[Managing the billing for Exchange accounts](https://docs.ovh.com/gb/en/microsoft-collaborative-solutions/manage-exchange-billing/)
 
 Join our community of users on <https://community.ovh.com/en/>.

@@ -81,7 +81,7 @@ Si vous choisissez ce mode, vous recevrez plusieurs relances par e-mail avant é
 >
 > Si vous n'effectuez pas de paiement pour un service en renouvellement manuel, celui-ci sera suspendu à sa date d'expiration puis supprimé au bout de quelques jours.
 >
-> En revanche, si vous ne souhaitez pas conserver ce service, il n'est pas nécessaire d'en demander la résiliation.
+> En revanche, si vous ne souhaitez pas conserver ce service, il n'est pas nécessaire d'en demander la [résiliation](https://docs.ovh.com/fr/billing/how-to-cancel-your-services/).
 >
 
 ### Gérer le renouvellement de vos services
@@ -143,5 +143,9 @@ Le tableau ci-dessous détaille les actions groupées possibles.
 |Aligner les dates de renouvellement|Permet d'aligner la date d'expiration de vos services à un jour calendaire. Seuls les services éligibles pourront être mis à jour.|
 
 ## Aller plus loin
+
+[Informations concernant le mode de facturation Public Cloud](https://docs.ovh.com/fr/public-cloud/information-concernant-le-mode-de-facturation-cloud/)
+
+[Gérer la facturation de vos comptes Exchange](https://docs.ovh.com/fr/microsoft-collaborative-solutions/gestion-facturation-exchange/)
 
 Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com/>.

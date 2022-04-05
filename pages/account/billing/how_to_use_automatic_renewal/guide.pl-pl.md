@@ -145,4 +145,8 @@ W poniższej tabeli przedstawiono możliwe działania zbiorcze.
 
 ## Sprawdź również
 
-Dołącz do społeczności naszych użytkowników na stronie<https://community.ovh.com/>.
+[Rozliczanie należności za usługę Public Cloud](https://docs.ovh.com/pl/public-cloud/analizowanie_platnosci_i_zarzadzanie_nimi/)
+
+[Zarządzanie fakturowaniem kont Exchange](https://docs.ovh.com/pl/microsoft-collaborative-solutions/zarzadzanie-fakturowanie-exchange/)
+
+Dołącz do społeczności naszych użytkowników na stronie <https://community.ovh.com/en/>.

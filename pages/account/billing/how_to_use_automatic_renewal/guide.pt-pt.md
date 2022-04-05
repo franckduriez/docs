@@ -144,4 +144,8 @@ O seguinte quadro especifica as ações agrupadas possíveis.
 
 ## Quer saber mais?
 
-Fale com a nossa comunidade de utilizadores em <https://community.ovh.com/>.
+[Informações sobre o método de faturação cloud](https://docs.ovh.com/pt/public-cloud/informacoes-sobre-o-metodo-de-faturacao-cloud/)
+
+[Gerir a faturação das contas Exchange](https://docs.ovh.com/pt/microsoft-collaborative-solutions/gestao-faturacao-exchange/)
+
+Fale com a nossa comunidade de utilizadores em <https://community.ovh.com/en/>.

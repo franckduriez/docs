@@ -148,4 +148,8 @@ Die nachfolgende Tabelle detailliert die möglichen Gruppenaktionen.
 
 ## Weiterführende Informationen
 
+[Informationen zu den Abrechnungsoptionen der Public Cloud](https://docs.ovh.com/de/public-cloud/informationen-zu-cloud-abrechnungsoptionen/)
+
+[Die Abrechnung für Ihre Exchange Accounts verwalten](https://docs.ovh.com/de/microsoft-collaborative-solutions/exchange-abrechnung-verwalten/)
+
 Für den Austausch mit unserer User Community gehen Sie auf <https://community.ovh.com/en/>.
